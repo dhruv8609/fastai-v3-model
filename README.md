@@ -1,6 +1,6 @@
 # [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
-This is a basic implementation of image classsification (one of the computer vision applications) and model deployment on Render 
+This is a basic implementation of image classsification and model deployment on Render 
 app link : https://indoor-plants-condition.onrender.com
 This application will let you know your plants' health.
 
